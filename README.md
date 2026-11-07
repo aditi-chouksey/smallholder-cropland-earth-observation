@@ -8,7 +8,7 @@ An end-to-end remote sensing and geospatial data pipeline designed for agricultu
 
 | 12-Month NDVI Phenology Trajectory | QGIS Thematic Classification Map |
 | :---: | :---: |
-| ![NDVI Phenology](ndvi_phenology_plot.png) | ![QGIS Cropland Map](Cropland_Map.png) |
+| ![NDVI Phenology](ndvi_phenology_plot.png) | ![QGIS Cropland Map](Cropland Map.png) |
 | *Seasonal canopy dynamics (planting, vegetative peak, harvest)* | *Classified points: Green = Cropland, Red/Brown = Non-Crop (OpenStreetMap Base)* |
 Mm
 ---
